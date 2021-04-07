@@ -13,7 +13,7 @@ It creat contor plot (x: time, y: particle diameter, z: concentration) from SMPS
 No
 
 # Usage
-1. Creat a directory named "datas" and put all your SMPS datas in the "datas" as file name as YYYYMMDD (ex 20210401).
+1. Creat a directory named "datas" and put all your SMPS datas in the "datas" as file name "YYYYMMDD.txt" (ex 20210401).
 2. Run normal.py
  
 # Note
